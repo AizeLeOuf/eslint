@@ -2,7 +2,7 @@
 
 ![Ecedi Agency](https://www.ecedi.fr/theme/images/logo-ecedi-top.png)
 
-**This is image is based on the official docker image node:lts-slim <https://hub.docker.com/_/node/>.**
+**This is image is based on the official docker image node: lts-slim <https://hub.docker.com/_/node/>.**
 
 ## Documentation
 
